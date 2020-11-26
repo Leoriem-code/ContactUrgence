@@ -1,0 +1,20 @@
+<resources>
+	<string name = "app_name">Contact Urgence</string>
+	<string name = "police">Envoyer un message de détresse</string>
+	<string name = "position">Communiquer ma position</string>
+	<string name = "current_gps_loaction">Current GPS Loaction</string>
+	<string name = "get_location">Get location</string>
+	<string name = "texte_police">"Vous venez de cliquer sur le bouton pour prévenir la police</string>
+	<string name = "texte_position">Merci de ne pas toucher les boutons en attendant l\'envoie de la position</string>
+	<string name = "msg_erreur">Désolé, nous n\'avons pas ce que vous cherchez</string>
+
+	<string name = "pause">Pause Location Updates</string>
+	<string name = "resumeGPS">Resume GPS Updates</string>
+	<string name = "resumeNet">Resume Net Updates</string>
+	<string name = "action_settings">Settings</string>
+	<string name = "longitude">longitude</string>
+	<string name = "latitude">latitude</string>
+	<string name = "_0_0000">0.0000</string>
+	<string name = "afficher_postion">Afficher la position (Sur une carte)</string>
+	<string name = "copy">Copy</string>
+</resources>
