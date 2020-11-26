@@ -70,8 +70,7 @@ public class MainActivity extends AppCompatActivity {
 	private void showAlert() {
 		final AlertDialog.Builder dialog = new AlertDialog.Builder(this);
 		dialog.setTitle("Enable Location")
-				.setMessage("Your Locations Settings is set to 'Off'.\nPlease Enable Location to " +
-						"use this app")
+				.setMessage("Your Locations Settings is set to 'Off'.\nPlease Enable Location to use this app")
 				.setPositiveButton("Location Settings", (paramDialogInterface, paramInt) -> {
 					Intent myIntent = new Intent(Settings.ACTION_LOCATION_SOURCE_SETTINGS);
 					startActivity(myIntent);
